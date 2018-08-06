@@ -6,6 +6,7 @@ public class MainClass {
 	greet();
 }
 public static void greet() {
+	for(int i=0;i<3;i++)
 System.out.println("greet");
 }
 }
